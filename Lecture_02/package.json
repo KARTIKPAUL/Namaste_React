@@ -1,0 +1,23 @@
+{
+  "name": "lecture_02",
+  "version": "1.0.0",
+  "description": "This is namaste  react lecture 2",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "naaste",
+    "react",
+    "akshai",
+    "saini"
+  ],
+  "author": "kartik paul",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
