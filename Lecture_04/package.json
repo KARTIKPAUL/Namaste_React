@@ -1,0 +1,21 @@
+{
+  "name": "lecture_04",
+  "version": "1.0.0",
+  "description": "This is a Food delivery app",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "kartik",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
